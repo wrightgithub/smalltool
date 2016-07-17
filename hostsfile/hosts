@@ -1,0 +1,547 @@
+#  project hosts
+#11.239.161.222 trade-service.alibaba.com #  admin
+127.0.0.1  localhost
+127.0.0.1  xyy-ubuntu
+127.0.0.1  winston.alibaba-inc.com
+121.42.173.132  www.xyy.com
+
+#110.75.96.130 ta.bops.alibaba.com #HZ
+#198.11.140.37 mht.alibaba.com mht.bops.alibaba.com ta.alibaba.com biz.alibaba.com ta.bops.alibaba.com  #US
+#110.75.96.130  bao.alibaba.com #HZ
+
+
+#=============注意：信保绑定预发布时，MO和Boss也要绑定预发布
+#42.156.191.172 onetouch.alibaba-inc.com  #BOSS
+#110.75.96.130  onetouch.alibaba.com onetouch.bops.alibaba.com onetouch-partner.alibaba.com 
+#=============线上定时器=======================
+#110.75.96.130   batchcloud.alibaba-inc.com 
+#============前端============
+#110.75.96.130 i.alicdn.com  i.alibaba.com
+
+
+#11.239.160.22 mht.bops.alibaba.com
+#11.239.179.147 mht.bops.alibaba.com  
+11.239.179.160  biz.alibaba.com #  admin
+#11.239.166.92 mht.alibaba.com
+#  common hosts
+10.125.9.179 screviewserver.alibaba.com #  admin
+10.101.91.71 standalone.costcenter #  admin
+100.69.203.18 diagnosiscenter.aliexpress.com #  admin
+10.125.193.55 intqa.com #  admin
+10.125.12.182 sourcing.alibaba.com #  admin
+10.125.12.182 sourcing.spanish.alibaba.com #  admin
+10.125.12.182 sourcing.french.alibaba.com #  admin
+10.125.12.182 sourcing.portuguese.alibaba.com #  admin
+10.125.12.182 sourcing.german.alibaba.com #  admin
+10.125.12.182 sourcing.italian.alibaba.com #  admin
+10.125.12.182 sourcing.korean.alibaba.com #  admin
+10.125.12.182 sourcing.japanese.alibaba.com #  admin
+10.125.12.182 sourcing.thai.alibaba.com #  admin
+10.125.12.182 sourcing.vietnamese.alibaba.com #  admin
+10.125.12.182 sourcing.turkish.alibaba.com #  admin
+10.125.12.182 sourcing.russian.alibaba.com #  admin
+10.125.12.182 trends.alibaba.com #  admin
+10.125.60.65 mlma.alibaba.com #  admin
+10.125.14.183 us.cobra.aliexpress.com #  admin
+10.125.59.63 peixun.alibaba.com #  admin
+10.125.25.48 biz.alibaba.com #  admin
+10.125.48.75 profile.alibaba.com #  admin
+10.125.63.3 photobankcenterservice.alibaba.com #  admin
+10.101.85.121 hz.componentlibs.aliexpress.com #  6080
+10.101.85.121 us.componentlibs.aliexpress.com #  6080
+10.101.15.10 us.productposting.alibaba.com #  admin
+10.125.8.148 mlproductservice.alibaba.com #  admin
+11.239.169.164 art-proxy-service.aliexpress.com #  admin
+11.239.165.150 fin-partner.alibaba.com #  admin
+10.125.51.146 india.alibaba.com #  admin
+10.125.24.35 freighttemplate.aliexpress.com #  admin
+10.218.133.24 www.alibaba.com #  admin
+10.218.133.24 importer.alibaba.com #  admin
+10.218.133.24 chinasuppliers.alibaba.com #  admin
+10.218.133.24 uk.alibaba.com #  admin
+10.218.133.24 au.alibaba.com #  admin
+10.218.133.24 customs.alibaba.com #  admin
+10.218.133.24 machinery.alibaba.com #  admin
+10.218.133.24 construction.alibaba.com #  admin
+10.218.133.24 automobile.alibaba.com #  admin
+10.101.88.188 onetouch.alibaba-inc.com #  nginx
+100.69.208.47 accounts-book.alibaba-inc.com #  admin
+10.125.25.138 msg.aliexpress.com #  2080
+10.189.196.105 ipmreadserver.alibaba.com #  admin
+100.69.164.78 fin.alibaba.com #  admin
+10.101.93.108 crosstrade.alibaba.com #  admin
+100.69.160.225 promotionruleserver.aliexpress.com #  admin
+10.189.192.201 verifyplatform.alibaba.com #  admin
+10.125.57.164 uictask.aliexpress.com #  admin
+11.239.171.8 irisgateway.alibaba.com #  admin
+11.239.165.59 aenegotiationserver.alitest.net #  admin
+10.125.51.66 hz-mydata.alibaba.com #  admin
+10.101.82.22 ilogisticsaddress.aliexpress.com #  admin
+10.125.24.120 traffic.alibaba-inc.com #  admin
+11.239.168.166 gif.alibaba.net #  admin
+10.125.10.185 ta.bops.alibaba.com #  admin
+100.69.216.113 fcserver.aliexpress.com #  admin
+10.125.27.91 rfq.backservice.alibaba.com #  admin
+10.101.110.246 *.en.alibaba.com #  admin
+10.101.110.246 design.alibaba.com #  admin
+10.101.110.246 xianhedz.en.alibaba.com #  admin
+10.101.110.246 db1008026249.en.alibaba.com #  admin
+10.101.110.246 preview.alibaba.com #  admin
+10.101.110.246 cn869948.en.alibaba.com #  admin
+10.101.110.246 cn842924.en.alibaba.com #  admin
+10.101.110.246 cn2575463.en.alibaba.com #  admin
+10.101.110.246 aliqatest01.en.alibaba.com #  admin
+10.125.26.225 arabic.alibaba.com #  admin
+10.125.26.225 french.alibaba.com #  admin
+10.125.26.225 german.alibaba.com #  admin
+10.125.26.225 italian.alibaba.com #  admin
+10.125.26.225 japanese.alibaba.com #  admin
+10.125.26.225 korean.alibaba.com #  admin
+10.125.26.225 portuguese.alibaba.com #  admin
+10.125.26.225 russian.alibaba.com #  admin
+10.125.26.225 spanish.alibaba.com #  admin
+10.125.26.225 thai.alibaba.com #  admin
+10.125.26.225 vietnamese.alibaba.com #  admin
+10.125.26.225 dutch.alibaba.com #  admin
+10.125.26.225 indonesian.alibaba.com #  admin
+10.125.26.225 hebrew.alibaba.com #  admin
+10.125.26.225 turkish.alibaba.com #  admin
+10.125.26.225 duoyuyan.alibaba.com #  admin
+10.125.26.225 br.alibaba.com #  admin
+11.239.171.53 tpbopsserver.alibaba.com #  admin
+10.125.202.196 icopenapi.aliexpress.com #  admin
+10.125.24.123 multipriceserver.alibaba.com #  admin
+10.189.192.63 s.click.aliexpress.com #  admin
+10.125.11.119 fund.aliexpress.com #  admin
+11.239.162.52 affiliatecpsbilling.alibaba-inc.com #  admin
+10.125.5.84 aeosscenter.aliexpress.com #  admin
+10.125.13.174 hz.my.alibaba.com #  admin
+10.125.13.174 sh.vip.alibaba.com #  admin
+10.125.13.174 hzmy.alibaba.com #  admin
+10.125.60.102 cluster.alibaba.com #  admin
+10.125.57.86 lighthouse.aliexpress.com #  admin
+10.189.195.71 productservice.alibaba.com #  admin
+10.125.57.232 wlserver.aliexpress.com #  admin
+10.125.25.30 msgserver.aliexpress.com #  admin
+10.125.26.199 selection.alibaba.com #  admin
+10.125.1.95 accounts.alibaba.com #  admin
+10.101.90.37 rowan.alibaba-inc.com #  admin
+10.101.15.185 rfq.alibaba.com #  admin
+10.125.27.143 rfq.bops.alibaba.com #  admin
+10.125.27.143 pssbops.alibaba-inc.com #  admin
+11.239.172.252 bwservice.alibaba.com #  admin
+10.189.197.19 aeaffiliatecpsorder.alibaba-inc.com #  admin
+10.125.54.42 marketingserver.alibaba.com #  admin
+100.69.167.232 hz.crmweb.alibaba.com #  admin
+100.69.167.232 hz-crmweb.alibaba.com #  admin
+100.69.167.232 us.crmweb.alibaba.com #  admin
+100.69.167.232 us-crmweb.alibaba.com #  admin
+10.125.54.78 uicaccountread.aliexpress.com #  admin
+10.101.82.105 udp.alibaba-inc.com #  admin
+11.239.175.189 aeissueweb.aliexpress.com #  admin
+10.125.57.71 us.my.alibaba.com #  admin
+10.125.57.71 usmy.alibaba.com #  admin
+10.189.194.27 aeproxy.aliexpress.com #  admin
+10.189.194.27 www.aliexpress.com #  admin
+10.189.194.27 pt.aliexpress.com #  admin
+10.189.194.27 ru.aliexpress.com #  admin
+10.189.194.27 es.aliexpress.com #  admin
+10.189.194.27 id.aliexpress.com #  admin
+10.189.194.27 fr.aliexpress.com #  admin
+100.69.170.128 login.aliexpress.com #  admin
+10.125.5.163 onetouch.alibaba.com #  admin
+10.125.26.238 peixun.alibaba-inc.com #  admin
+10.125.63.57 bns.alibaba.com #  admin
+100.69.216.75 store.aliexpress.com #  admin
+10.125.0.55 sccategoryservice.alibaba.com #  admin
+10.125.55.137 finance.bops.alibaba.com #  admin
+100.69.214.185 shippingma.alibaba.com #  admin
+100.69.214.185 eshipping.alibaba.com #  admin
+100.69.214.185 logistics.alibaba.com #  admin
+100.69.214.185 eche.alibaba.com #  admin
+100.69.214.185 hz-shippingma.alibaba.com #  admin
+10.125.13.67 i.alibaba.com #  admin
+10.125.66.68 message.aliexpress.com #  2080
+100.69.213.143 adaccount.alibaba.com #  admin
+10.125.26.89 supplierservice.alibaba.com #  admin
+10.125.63.28 credit.bops.alibaba.com #  admin
+10.101.106.200 productcenterservice.alibaba.com #  admin
+10.101.14.188 uspbm.alibaba.com #  admin
+100.69.199.232 compass.alibaba.com #  admin
+10.125.198.202 webpushsocket.aliexpress.com #  admin
+10.189.193.223 finance.platform.alibaba.com #  admin
+10.125.26.15 patrol.alibaba.com #  admin
+11.239.177.97 ae.alibaba-inc.com #  admin
+100.69.192.111 equityserver.aliexpress.com #  admin
+10.125.57.236 buyermarketservice.alibaba.com #  admin
+10.125.13.157 uicprofile.aliexpress.com #  admin
+10.125.12.127 mldcservice.alibaba.com #  admin
+10.125.56.32 wapseo.alibaba.com #  admin
+10.125.49.85 uicaudit.aliexpress.com #  admin
+10.125.57.24 mobile.alibaba.com #  admin
+10.101.12.183 us-mydata.alibaba.com #  admin
+10.218.141.92 ilogistics.bops.alibaba.com #  admin
+100.69.212.245 ads.alibaba.com #  admin
+100.69.212.107 us.uicservice.alibaba.com #  admin
+10.189.197.181 userauthserver.aliexpress.com #  admin
+10.125.11.153 identificationservice.alibaba.com #  admin
+10.125.61.172 wsproductwriteserver.alibaba.com #  admin
+10.125.25.143 mamenuserver.us.alibaba.com #  admin
+11.239.162.249 messagebeach.alibaba.com #  admin
+10.125.12.183 rfqposting.alibaba.com #  admin
+11.239.162.51 shipping.bops.alibaba.com #  admin
+10.101.14.102 addressserver.aliexpress.com #  admin
+10.189.199.67 ggsgateway.alibaba.com #  admin
+11.239.170.62 partnerserver.alibaba.com #  admin
+10.101.95.76 assurance-center.alibaba.com #  admin
+10.125.7.11 hz.ganges.alibaba.com #  admin
+10.189.193.253 gateway.bops.alibaba.com #  admin
+10.189.193.253 bopsgateway.alibaba.com #  admin
+11.239.180.70 promotion.aliexpress.com #  admin
+100.69.214.47 productbops.alibaba.com #  admin
+10.125.57.94 atmprofilegw.alibaba.com #  admin
+10.218.141.227 logisticsserver.alibaba.com #  admin
+10.125.28.101 dowjones.alitest.net #  admin
+10.189.198.25 freight.alibaba.com #  admin
+10.189.198.25 freight.aliexpress.com #  admin
+10.125.55.114 fuwu.aliaba-inc.com #  admin
+100.69.216.77 wwatmserver.alibaba.com #  admin
+100.69.216.77 wwatmserver.aliexpress.com #  admin
+11.239.170.174 ilogistics.aliexpress.com #  admin
+11.239.170.174 ilogistics.alibaba.com #  admin
+10.125.54.1 trade.aliexpress.com #  admin
+10.125.54.1 trade.alibaba.com #  admin
+10.125.58.175 feedback.aliexpress.com #  admin
+10.125.28.51 hz.sourcing.alibaba.com #  admin
+10.125.28.51 mysourcing.alibaba.com #  admin
+10.125.28.51 rfqma.vip.tbsite.net #  admin
+10.125.28.51 us.sourcing.alibaba.com #  admin
+10.125.25.23 console.tiger.alibaba-inc.com #  admin
+10.125.50.204 guestchatrpc.aliexpress.com #  admin
+11.239.162.53 aeperformserver.alitest.net #  admin
+10.125.24.121 uicaccountwrite.aliexpress.com #  admin
+10.125.63.141 placeorderserver.alibaba.com #  admin
+10.125.25.155 hz.company.alibaba.com #  admin
+10.125.25.155 mycompany.alibaba.com #  admin
+100.69.199.236 ae-evatranslationserver.aliexpress.com #  admin
+10.125.49.150 posting.aliexpress.com #  admin
+10.125.49.150 us.posting.aliexpress.com #  admin
+10.125.49.150 hz.posting.aliexpress.com #  admin
+10.125.10.153 onetouch-partner.alibaba.com #  admin
+100.69.204.216 aeevaluationstatisticw.aliexpress.com #  admin
+10.218.133.4 my.aliexpress.com #  admin
+10.125.11.107 company.bops.alibaba.com #  admin
+10.125.15.178 serviceactivation.alibaba.com #  admin
+10.125.55.214 waimaoquan.alibaba.com #  admin
+10.125.61.5 backyard.alibaba.com #  admin
+10.125.10.233 member.bops.alibaba.com #  admin
+10.125.54.145 mypromotion.alibaba.com #  admin
+10.125.54.145 mypromotion.aliexpress.com #  admin
+100.69.164.145 expressexport.alibaba.com #  admin
+10.218.140.63 alimail.service.alibaba.com #  admin
+10.218.140.63 e-learning.alibaba.com #  admin
+10.218.140.63 email.service.alibaba.com #  admin
+10.218.140.63 p4p.alibaba.com #  admin
+10.218.140.63 www.alimail.service.alibaba.com #  admin
+10.218.140.63 www.email.service.alibaba.com #  admin
+11.239.163.42 aeissueserver.alitest.net #  admin
+10.101.12.153 shoppingcart.alibaba.com #  admin
+10.101.12.153 shoppingcart.aliexpress.com #  admin
+10.125.25.90 shopdesign.aliexpress.com #  admin
+10.125.9.99 shippinggateway.alibaba.com #  admin
+10.125.57.198 detail.alibaba.com #  admin
+10.125.24.229 couponserver.alibaba.com #  admin
+100.69.213.73 companygateway.alibaba.com #  admin
+10.125.55.142 us.company.alibaba.com #  admin
+10.125.5.56 op.alibaba-inc.com #  admin
+10.101.92.74 trade-service.alibaba.com #  admin
+11.239.166.212 aecategoryserver.aliexpress.com #  admin
+10.125.27.43 globalseoadmin.alibaba.com #  admin
+10.125.25.131 mamenuserver.hz.alibaba.com #  admin
+10.125.28.30 globalmuses.alibaba.com #  admin
+11.239.165.66 issueserver.aliexpress.com #  admin
+10.101.83.164 ipmwriteserver.alibaba.com #  admin
+100.69.213.50 us.favorite.alibaba.com #  admin
+10.125.25.194 menu.bops.alibaba.com #  admin
+100.69.209.96 onetouch.bops.alibaba.com #  admin
+10.125.54.115 marketingmiscserver.alibaba.com #  admin
+11.239.171.94 userauth.aliexpress.com #  admin
+100.69.209.74 syslog.alibaba.com #  admin
+10.189.192.62 aesellercrm.alibaba-inc.com #  admin
+10.125.8.146 trade.bops.alibaba.com #  admin
+10.101.13.160 atmgateway.client.alibaba.com #  admin
+10.101.13.160 atmgateway-client.alibaba.com #  admin
+10.218.143.166 globalsearch.aliexpress.com #  admin
+10.218.143.166 search.aliexpress.com #  admin
+10.125.24.192 cn-multilanguage.alibaba.com #  admin
+11.239.160.140 promotionserver.aliexpress.com #  admin
+10.125.65.182 click.alibaba.com #  admin
+10.125.65.182 hz.clickproxy.p4p.alibaba.com #  admin
+10.125.65.182 us.clickproxy.p4p.alibaba.com #  admin
+10.125.65.182 p4pclickproxy.alibaba.com #  admin
+100.69.197.25 gaga.aliexpress.com #  admin
+100.69.197.25 group.aliexpress.com #  admin
+100.69.197.25 presale.aliexpress.com #  admin
+10.125.27.228 magellan.alibaba.com #  admin
+10.189.196.16 bankunion.alibaba.com #  admin
+10.125.51.205 offer.alibaba.com #  admin
+100.81.144.94 cashier.alibaba.com #  admin
+10.125.193.224 legal.alibaba.com #  admin
+10.101.84.104 affiliatetrackingserver.aliexpress.com #  admin
+100.69.209.91 mpp.alibaba-inc.com #  admin
+100.69.212.242 minerva.aliexpress.com #  admin
+10.101.108.8 spserver.aliexpress.com #  admin
+10.101.90.127 affiliatesellerserver.aliexpress.com #  admin
+10.125.11.132 cn.message.alibaba.com #  admin
+10.125.11.132 csmail.alibaba.com #  admin
+10.125.11.132 mailhostingnew.alibaba.com #  admin
+10.125.11.132 message.alibaba.com #  admin
+10.125.11.132 mx.csmail.alibaba.com #  admin
+11.239.166.72 coupon.aliexpress.com #  admin
+10.218.130.205 wsproductreadserver.alibaba.com #  admin
+10.125.14.185 backpcontrol.alibaba.com #  admin
+11.239.170.177 esiteservice.alibaba.com #  admin
+10.125.7.160 hz.productposting.alibaba.com #  admin
+10.125.7.160 hz-productposting.alibaba.com #  admin
+100.69.208.42 affiliatepublisherserver.alibaba.com #  admin
+100.69.170.62 aephotobankserver.alibaba.com #  admin
+10.125.2.29 detail.aliexpress.com #  admin
+10.189.193.204 fcaccountserver.aliexpress.com #  admin
+10.125.24.61 shopsubsite.aliexpress.com #  admin
+100.69.168.174 photobank.alibaba.com #  admin
+10.125.11.94 mcmsservice.alibaba-inc.com #  admin
+10.125.8.90 webpush.aliexpress.com #  admin
+10.125.26.219 deals.alibaba.com #  admin
+10.125.26.219 wholesale.alibaba.com #  admin
+10.125.26.219 market.alibaba.com #  admin
+10.125.26.219 wholesaler.alibaba.com #  admin
+10.125.59.99 affiliatetaskconsole.aliexpress.com #  admin
+11.239.171.23 p4pservice.alibaba-inc.com #  admin
+10.125.193.224 us.hatch.alibaba.com #  admin
+10.125.193.224 ushatch.alibaba.com #  admin
+10.125.193.224 hatch.alibaba.com #  admin
+10.125.193.224 cn.hatch.alibaba.com #  admin
+10.125.193.224 cnhatch.alibaba.com #  admin
+11.239.166.185 ltocreader.alibaba.com #  admin
+100.69.161.10 m.alibaba.com #  admin
+100.69.161.10 wap.alibaba.com #  admin
+10.218.138.131 tpserver.alibaba.com #  admin
+10.125.27.234 us-multilanguage.alibaba.com #  admin
+100.69.165.189 dai.alibaba.com #  admin
+100.69.165.189 credit.alibaba.com #  admin
+100.69.165.189 lc.alibaba.com #  admin
+100.69.165.189 bao.alibaba.com #  admin
+100.69.165.189 tradeassurance.alibaba.com #  admin
+100.69.165.189 xin.alibaba.com #  admin
+100.69.165.189 rong.alibaba.com #  admin
+100.69.166.62 uictag.aliexpress.com #  admin
+10.189.200.165 minervaserver.aliexpress.com #  admin
+10.125.24.116 searchservice.alibaba.com #  admin
+10.125.3.159 fb.alibaba.com #  admin
+10.218.134.71 tptask.alibaba.com #  admin
+10.218.128.99 marketingbackadmin.aliexpress.com #  admin
+10.125.48.224 service.alibaba.com #  admin
+10.125.0.162 aemarketingmisctask.aliexpress.com #  admin
+11.239.175.196 myfinance.alibaba.com #  admin
+100.69.171.207 shopdetail.aliexpress.com #  admin
+10.125.3.164 aeuic.console.com #  admin
+10.125.55.74 tdx.aliexpress.com #  admin
+10.125.24.108 rule.alibaba.com #  admin
+10.125.27.64 creditma.alibaba.com #  admin
+10.125.27.64 alisecure.alibaba.com #  admin
+10.125.61.158 news.alibaba.com #  admin
+10.218.135.32 hirobops.alibaba.com #  admin
+10.125.55.46 shopserver.aliexpress.com #  admin
+10.125.6.229 portals.aliexpress.com #  admin
+100.69.207.20 aeproductuniformserver.aliexpress.com #  admin
+10.125.62.99 aemarketingbacktask.aliexpress.com #  admin
+10.125.26.136 login.alibaba.com #  admin
+10.125.59.5 ltocwriter.alibaba.com #  admin
+11.239.167.87 gangeswirl.alibaba-inc.com #  admin
+10.125.11.117 shipping.alibaba.com #  admin
+10.125.59.73 bops.alibaba.com #  admin
+10.125.59.73 mx.bops.alibaba.com #  admin
+10.125.59.73 assembly.bops.alibaba.com #  admin
+100.69.215.64 art.alibaba-inc.com #  admin
+11.239.164.27 iesite.alibaba.com #  admin
+10.101.82.185 financeservice.alibaba.com #  admin
+# 3rd party hosts
+#  common
+127.0.0.1 dmtracking2.alibaba.com
+127.0.0.1 utm.alibaba.com
+127.0.0.1 p4p-enmatch.alibaba.com #  3080   
+127.0.0.1 stat.alibaba.com
+10.101.91.52 passport.daily.alibaba.com
+10.101.91.52 passport.daily.aliexpress.com
+10.101.85.139 login1.alibaba.com
+10.101.91.52 passport.alibaba.com
+10.125.193.55 intlqa.com
+10.20.146.11 ocean.alibaba-inc.com #  8880
+10.101.83.64 malanda.alibaba-inc.com
+10.125.0.4 geoip.server #  3080
+10.125.8.143 ibatis.apache.org
+10.125.8.143 springframework.org
+10.125.8.143 www.springframework.org
+10.125.200.150 activites.alibaba.com
+10.125.193.224 cnhatch.aliexpress.com
+110.75.70.172 map.i.alicdn.com
+#  fileserver
+10.125.56.127 kfdown.a.aliimg.com
+10.125.56.127 kfdown.s.aliimg.com
+10.125.56.127 g01.s.alicdn.com
+10.125.56.127 g02.s.alicdn.com
+10.125.56.127 g03.s.alicdn.com
+10.125.56.127 g04.s.alicdn.com
+10.125.56.127 f01.s.alicdn.com
+10.125.56.127 f02.s.alicdn.com
+10.125.56.127 f03.s.alicdn.com
+10.125.56.127 f04.s.alicdn.com
+10.125.56.127 g01.a.alicdn.com
+10.125.56.127 g02.a.alicdn.com
+10.125.56.127 g03.a.alicdn.com
+10.125.56.127 g04.a.alicdn.com
+10.125.56.127 f01.a.alicdn.com
+10.125.56.127 f02.a.alicdn.com
+10.125.56.127 f03.a.alicdn.com
+10.125.56.127 f04.a.alicdn.com
+10.218.132.101 kfupload.alibaba.com
+10.218.132.101 kfupload2.alibaba.com
+10.218.132.101 kfupload1.alibaba.com
+10.125.56.126 upload.alibaba.com #  80
+10.125.56.126 upload1.alibaba.com #  80
+10.125.56.127 i00.i.aliimg.com #  80
+10.125.56.127 i01.i.aliimg.com #  80
+10.125.56.127 i02.i.aliimg.com #  80
+10.125.56.127 i03.i.aliimg.com #  80
+10.125.56.127 hz00.i.aliimg.com #  80
+10.125.56.127 hz01.i.aliimg.com #  80
+10.125.56.127 hz02.i.aliimg.com #  80
+10.125.56.127 hz03.i.aliimg.com #  80
+10.125.56.127 us00.i.aliimg.com #  80
+10.125.56.127 us01.i.aliimg.com #  80
+10.125.56.127 us02.i.aliimg.com #  80
+10.125.56.127 us03.i.aliimg.com #  80
+10.125.56.127 img.vip.alibaba.com # 80
+10.125.56.127 img.alibaba.com # 80
+10.125.56.127 sc01.alicdn.com
+10.125.56.127 sc02.alicdn.com
+# esite
+10.125.10.129 cyjcgs1.en.alibaba.com #  1080 
+# feedback1
+10.101.168.191 attach.mail.alibaba.com #   8090
+10.101.168.198 alimail.alibaba.com #  8001
+10.101.83.68 mail.alibaba.com #   6080
+10.125.12.113 us.autosuggestion.message.alibaba.com #   8080
+10.125.12.113 cn.autosuggestion.message.alibaba.com #   8080
+#  alipay
+10.209.22.131 ipay.bops.alibaba.com
+10.244.22.78 alipay.alibaba.com
+10.209.22.132 alipayaccount.alibaba.com
+10.209.22.134 ipayserver.alibaba.com
+10.20.146.190 migs-mtf.mastercard.com.au
+10.20.146.190 www.moneybookers.com
+#  da
+10.20.143.80 data.alibaba.com
+#  platform
+10.125.57.45 eden.vip.xyi.cn.alidc.net #  80
+10.125.57.45 eden.vip.jyl.itbu.alidc.net #  80
+10.20.162.59 udb.vip.xyi.cn.alidc.net #  8080
+10.20.162.59 udb.vip.jyl.itbu.alidc.net #  8080
+10.20.162.59 udb.alisoft.com #  8080
+10.20.154.177 dubbo.alibaba-inc.com #  9090
+10.20.154.175 napoli.alibaba-inc.com #  1080
+10.20.168.58 cobar.alibaba-inc.com #  8066
+#  crm
+10.125.15.11 fuwu.alibaba.com #  8080
+10.101.86.68 omega.alitest.net
+10.101.86.68 martini.alitest.net
+10.101.86.68 martinichn.alitest.net
+10.101.86.68 bpm.alitest.net
+10.125.195.25 survey.alitest.net
+10.125.204.62 vodka.alitest.net
+10.125.204.62 vodkachn.alitest.net
+10.101.86.68 fin.alitest.net
+10.101.86.68 nasdaq.alitest.net
+10.101.86.68 eve.alitest.net
+10.101.86.68 paytest15.alibaba.com
+10.125.197.119 aegean.alitest.net
+10.125.197.119 zeus.alitest.net
+10.125.197.119 caesar.alitest.net
+10.125.197.119 janus.alitest.net
+10.125.197.119 muses.alitest.net
+10.125.8.203 nirvana.alitest.net
+10.125.8.203 nirvanachn.alitest.net
+10.125.8.203 sherry.alitest.net
+10.125.8.203 caenir.alitest.net
+10.125.8.203 auth.alitest.net
+10.125.2.49 tequila.alitest.net
+10.125.8.203 cupoo.alitest.net
+10.189.197.108 moutai.alitest.net
+10.101.86.74 alps.alitest.net
+10.101.86.74 juno.alitest.net
+10.101.86.74 aurora.alitest.net
+10.101.86.74 kms.alitest.net
+10.101.86.74 chivas.alitest.net
+10.101.86.74 metis.alitest.net
+10.101.86.74 360.alitest.net
+10.125.53.72 rps.alitest.net
+10.125.53.72 channel.alitest.net
+172.18.63.174 ceres.alitest.com
+172.18.63.178 ceres.aliuat.com
+10.71.113.230 property-dev.alibaba-inc.com
+# local
+10.125.8.143 cobertura.sourceforge.net
+10.20.136.207 scm.mysql.alibaba-inc.com
+172.22.58.234 buc.vip.xyi.cn.alidc.net
+140.205.216.26 tms.taobao.org
+10.125.11.114 edison.b2b.alibaba-inc.com
+10.125.11.114 edison-test.b2b.alibaba-inc.com
+# localhost
+127.0.0.1 notification.alibaba.com # 8080
+127.0.0.1 page.1688.com
+127.0.0.1 stat.gmonitor.aliimg.com
+127.0.0.1 acookie.alibaba.com
+127.0.0.1 page.china.alibaba.com
+127.0.0.1 ynuf.alibaba.com
+127.0.0.1 hzhermes.alibaba.com
+127.0.0.1 checktoken.alibaba.com
+127.0.0.1 translate.google.com
+127.0.0.1 cmap.alibaba.com
+127.0.0.1 error.alibaba.com
+# mobile
+10.125.51.141 gw.api.alibaba.com
+42.156.190.4 api.aliexpress.com
+10.125.201.208 oss.sonatype.org
+10.125.201.208 projectlombok.org
+# search
+198.11.140.55 isearch-proxy-us.alibaba-inc.com
+# 农村淘宝daily环境
+10.218.130.51 cun.taobao.org
+10.218.137.155 i.cun.daily.taobao.net
+10.189.227.143 cun.daily.taobao.net
+10.101.73.189 g.tbcdn.cn
+10.101.73.189 g.alicdn.com
+# new
+127.0.0.1 topranking.alibaba.com #  4080
+127.0.0.1 showcase.alibaba.com #  5080
+127.0.0.1 p4p.enmatch.alibaba.com # 3080
+127.0.0.1 mm.alibaba-inc.com # 8080
+127.0.0.1 us-globalmuses.en.vip.alidc.net
+127.0.0.1 us-scglobalsearch.en.vip.alidc.net
+127.0.0.1 trans.alibaba.com #  2080
+127.0.0.1 translate.alibaba-inc.com #  7080
+# SM日常环境
+10.218.132.19 sec.daily.taobao.net
+10.125.59.1 sec.alibaba.com
+10.125.59.1 sec.1688.com
+10.125.59.1 sec.aliexpress.com
+10.125.59.1 sec.waptest.taobao.com
+10.125.59.1 cnsec.alibaba.com
+10.125.59.1 cnsec.aliexpress.com
+#  batch
+42.156.218.179 hz-scbatch.cn.vip.alidc.net
+10.189.192.86 adsettle.alibaba.com
+10.125.10.32 p4pservice.alibaba.com
+10.238.126.72 ossproxy.aone.alibaba-inc.com
+10.125.56.127 is.alicdn.com
+
