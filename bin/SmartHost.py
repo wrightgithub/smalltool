@@ -23,6 +23,7 @@ def help():
 	print "-h           help"
 	print "ls           ls /opt/smalltool/hostsfile/"
 	print "cat          cat /etc/hosts"
+	print "vi <file>    create  a file an save in /opt/smalltool/hostsfile/"
 	print "<file>       switch hosts "
 	pass
 #####################
