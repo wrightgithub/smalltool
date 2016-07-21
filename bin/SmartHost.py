@@ -7,7 +7,7 @@ hostsfile="/opt/smalltool/hostsfile/"
 # 		os.system("sudo mkdir "+trace+"/hostsfile");
 # 	return;
 def judge():
-	if  os.path.exists("/etc/hosts") and os.path.exists(hostsfile+"lasthosts"):
+	if  os.path.exists("/etc/hosts"): #and os.path.exists(hostsfile+"lasthosts"):
 		print "switch  success";
 	else:
 		print "switch  fail!!!";
@@ -44,9 +44,11 @@ for arg in sys.argv:
 	 elif arg == "-h":
 	 	help();
 	 elif i>1 and isExists(hostsfile+arg):
-	 	os.system("sudo mv /etc/hosts  "+trace+"temp/");
-	 	os.system("sudo mv "+hostsfile+arg+"  /etc/hosts");
-	 	os.system("sudo mv "+trace+"temp/hosts   " +hostsfile+"lasthosts");
+	 	os.system("sudo rm -rf /etc/hosts");
+	 	os.system("sudo ln -s "+hostsfile+arg+"  /etc/hosts");
+	 	# os.system("sudo mv /etc/hosts  "+trace+"temp/");
+	 	# os.system("sudo mv "+hostsfile+arg+"  /etc/hosts");
+	 	# os.system("sudo mv "+trace+"temp/hosts   " +hostsfile+"lasthosts");
 	 	judge();
 	 	break;
 
